@@ -1,6 +1,8 @@
 # Coaching Agreement
 ## Mike Haber Coaching & Consulting
 ## mike@make10louder.co.uk
+## 07565 178 791
+## https://appear.in/make-10-louder
 
 Coachee:
 
@@ -23,7 +25,7 @@ Cost per session:
 * bring real experiences and examples into the coaching session
 * reflect on the sessions, and what you would like to have happen
 * take responsibility for feeding back what is and isn’t working and receiving feedback
-* let the coach know if you are unable to attend your session. I need 24 hours notice minimum, unless an emergency occurs, otherwise the fee for the session is payable
+* let the coach know if you are unable to attend your session. I need 24 hours notice minimum, _otherwise the fee for the session is payable_
 * raise any issues or difficulties you may experience with the coaching I provide, in person or by phone.  I commit to resolving difficulties and misunderstandings from a position of mutual respect
 
 ###### Nature of Coaching:
@@ -34,7 +36,6 @@ The client is aware that coaching is not psychological counselling or therapy. C
 * Are open to new ways of learning and working which might challenge your thoughts and ideas
 * Are honest with your coach and yourself, particularly if you do not feel that something is working for you
 * Are ready to commit to your development by the giving and receiving of honest feedback
-* Recognise the investment being made in your development
 * Accept that commitment must first come from you
 
 I follow the ICF code of ethics https://goo.gl/MuofNz
@@ -43,4 +44,4 @@ I follow the ICF code of ethics https://goo.gl/MuofNz
 I look forward to us working together.
 
 ###### Mike Haber, 137 Jessops Lane, Gedling, Nottingham. NG44BU
-###### 07565 178791
+###### 07565 178 791
